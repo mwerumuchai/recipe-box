@@ -1,19 +1,11 @@
 # recipe-box
 
-### Angular Setup Checklist
+### Instructions
 
-.Create the project directory
-.Create index.html in the top level of the project directory.
-.Create package.json file for npm dependencies.
-.Run bower init to create the bower manifest file, keeping all the defaults.
-.Create .gitignore file.
-.Add resources folder, including subfolders for images, styles and js. Then  add styles.css to the styles folder with a single obvious style rule to make sure the files are connected up correctly - for example, turn all the <h1> tags blue.
-.Create the app folder, and inside of it, add the root component: app.component.ts.
-.Also in the app folder, add the entry point files: app.module.ts and main.ts.
-.Create the Angular configuration files in the top level of your project directory: tsconfig.json, typings.json, and systemjs.config.js.
-.Add gulpfile.js to the top level of your project directory.
-.Install any bower dependencies, such as Bootstrap.
-.Run the 4 development commands.
+. As a user, I want to see only the title of each recipe when I first visit the page
+. As a user, I want to click a recipe's title to see its other details; like the ingredients and instructions.
+. As a user, I want to be able to hide a recipe's details when I'm done viewing them.
+. As a user, I want to edit my recipes if I need to. I'd like to see changes reflected live on the page as I make them.
 
 ### Development Commands
 npm install
