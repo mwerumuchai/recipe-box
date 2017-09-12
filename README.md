@@ -12,3 +12,12 @@ npm install
 bower install
 gulp build
 gulp serve
+
+## Other details
+
+HTML, CSS, Bootstrap, JavaScript, JQuery, GitHub API.
+
+### License
+MIT
+
+Copyright (c) 2017 Mweru Muchai
